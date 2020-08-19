@@ -1,0 +1,6 @@
+The 'tree sequence': using genealogies to store, analyze, and interpret large genomic datasets
+
+Abstract:
+Thanks to rapid technological advances in genome sequencing, today's large genomic datasets commonly describe genetic variation in tens or hundreds of thousands of individuals across hundreds of thousands of nucleotide positions. However, extracting information about human health and history from these datasets is challenging, both because the connection between the biological processes and genomic patterns is extremely noisy, and because of the sheer size of the datasets. In this talk, I will describe how thinking about the process that produced the data - the sequence of genealogical trees that describe inheritance as we move along the genome, known as the "tree sequence" - has led to orders-of-magnitude increases in our ability to store and work with genomic data.
+
+
