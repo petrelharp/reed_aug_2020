@@ -679,7 +679,7 @@ from [R., Thornton and Kelleher 2019, *Efficiently summarizing relationships in 
 
 ----------
 
-[jupyter demonstration](https://github.com/petrelharp/reed_aug_2020)
+[jupyter demonstration](https://github.com/petrelharp/reed_aug_2020/blob/master/ts-demo.ipynb)
 
 # Wrap up
 
@@ -688,11 +688,22 @@ from [R., Thornton and Kelleher 2019, *Efficiently summarizing relationships in 
 ::: {.columns}
 ::::::: {.column}
 
-Everything is efficient, open, and tested:
+Everything is efficient, open, and tested.
+
+
+![tskit logo](figs/tskit_logo.png){width=100%}
+
+:::
+::::::: {.column}
 
 - `tskit`: tree sequence tools 
 
     [github:tskit-dev/tskit](https://github.com/tskit-dev/tskit)
+
+- `stdpopsim`: a library of "standard" simulation tools
+
+    [github:popsim-consortium/stdpopsim](https://github.com/popsim-consortium/stdpopsim)
+
 
 - `msprime`: coalescent simulator,
 
@@ -702,10 +713,6 @@ Everything is efficient, open, and tested:
 
     [messerlab.org/slim](https://messerlab.org/slim/)
 
-:::
-::::::: {.column}
-
-![tskit logo](figs/tskit_logo.png){width=100%}
 
 :::
 :::::::
@@ -718,8 +725,6 @@ Everything is efficient, open, and tested:
 - Philipp Messer
 - Boyana Norris
 - Gil McVean
-- Georgia Tsambos
-- Yan Wong
 - Simon Myers
 - Wilder Wohns
 - Kevin Thornton
@@ -732,13 +737,15 @@ Everything is efficient, open, and tested:
 :::
 :::::::: {.column}
 
-- `tskit-dev`
 - Jerome Kelleher
+- Yan Wong
+- Ben Jeffery
 - Ben Haller
+- Georgia Tsambos
 - Jared Galloway
-- Jaime Ashander
+- `tskit-dev` and `popsim-consortium`
 
-Funding: NSF, UO (PR); Wellcome Trust (JK);
+Funding: NSF, NIH, UO (PR); Wellcome Trust (JK);
 
 Slides with [reveal.js](http://hakim.se) and [pandoc](https://pandoc.org/).
 
