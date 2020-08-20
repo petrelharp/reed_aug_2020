@@ -46,12 +46,14 @@ with genomic data.
 ::: {.columns}
 ::::::: {.column width=30%}
 
-*For example, in humans (low diversity):*
+*For example, in humans:*
 
-- out of $3 \times 10^8$ nucleotides,
+- out of $3 \times 10^9$ nucleotides,
 - individuals differ at around 5 million sites
-- 88 million varying sites in 2500 genomes
-     <!-- 1000G: https://www.nature.com/articles/nature15393 -->
+- upcoming datasets: millions of individuals
+    at tens of millions of varying sites
+<!-- 88 million varying sites in 2500 genomes
+     1000G: https://www.nature.com/articles/nature15393 -->
 
 :::
 ::::::: {.column width=70%}
@@ -679,7 +681,23 @@ from [R., Thornton and Kelleher 2019, *Efficiently summarizing relationships in 
 
 ----------
 
+::: {.columns .vcentered}
+::::::: {.column width=50%}
+
+
+::: {.centered}
+![https://www.sciencedirect.com/science/article/pii/S096098221101270X](figs/hominins.jpg)
+:::
+
+:::
+::::::: {.column width=50%}
+
+::: {.centered}
 [jupyter demonstration](https://github.com/petrelharp/reed_aug_2020/blob/master/ts-demo.ipynb)
+:::
+
+:::
+:::::::
 
 # Wrap up
 
